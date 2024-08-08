@@ -1,32 +1,77 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hello! My name is Matthew (こんにちは！私の名前はマシューです)
 
-
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+This is my skillset in learning JavaScript: (⭐= projects done within JS)
+	JavaScript tutorial for beginners 🌐
+	Variables 📦
+	Arithmetic operators ➕
+	Accept user input 💬
+	Type conversion 💱
+	Constants 🚫
+	⭐ Counter program 🔢
+	Math object 🧮
+	Random number generator ⁉
+	If statements 🤔
+	Checked property ✅
+	Ternary operator ❓
+	Switches 💡
+	String methods 🧵
+	String slicing ✂️
+	Method chaining ⛓
+	Logical operators ❗
+	Strict equality 🟰
+	While loops 🔁
+	For loops 🔂
+	⭐ Number guessing game ↕
+	Functions 📞
+	Variable scope 🏠
+	⭐ Temperature conversion program 🌡️
+	Arrays 🗃
+	Spread operator 📖
+	Rest parameters 🗄
+	⭐ Dice Roller program 🎲
+	⭐ Random password generator 🔑
+	Callbacks 🤙
+	forEach() ➿
+	map() 🗺
+	filter() 🚰
+	reduce() ♻
+	Function expressions 🐣
+	Arrow functions 🎯
+	JavaScript Ojects🧍
+	Constructors 🛠
+	Classes 🏭
+	STATIC keyword ⚡
+	Inheritance 🐇
+	SUPER keyword 🦸‍♂️
+	Getters & Setters 📐
+	Destructuring 💥
+	Nested objects 📫
+	Arrays of objects 🍎
+	Sorting 🗃
+	Shuffle an array 🔀
+	Dates 📅
+	Closures 🔒
+	setTimeout() ⏰
+	⭐ Digital Clock program 🕐
+	⭐ Stopwatch program ⏱
+	ES6 Modules 🚢
+	Asynchronous code 💤
+	Error handling ⚠
+	⭐ Calculator program 🖩
+	What is the DOM? 🌳
+	Element selectors 📑
+	DOM navigation 🧭
+	Add & change HTML 🛠️
+	Mouse events 🖱
+	Key events ⌨
+	Hide/show HTML 🖼
+	NodeLists 📃
+	classList 🧾
+	⭐ Rock Paper Scissors 👊
+	⭐ Image Slider 🖼️
+	Callback Hell? 🔥
+	Promises 🤞
+	Async/Await ⏳
+	JSON files 📄
+	Fetch data from an API ↩️
+	⭐ Weather App project ☀️
