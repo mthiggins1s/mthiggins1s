@@ -1,6 +1,6 @@
 Hello! My name is Matthew (こんにちは！私の名前はマシューです)
 
-This is my skillset in learning JavaScript: (⭐= projects done within JS)
+This is my skillset in learning JavaScript: (⭐= projects done within JS) (Completetion Time = 20 hours - Self Taught)
 	JavaScript tutorial for beginners 🌐
 	Variables 📦
 	Arithmetic operators ➕
